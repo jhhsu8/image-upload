@@ -1,0 +1,31 @@
+body {
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background-color: #fff;
+}
+
+#bodycontainer, #content {
+    padding: 20px;
+}
+
+#header {
+    padding-left: 20px;
+}
+
+#content {
+    background-color: #deeff5;
+}
+
+#header, #footer {
+    color: #fff;
+    background-color: #000080;
+}
+
+#footer p {
+    text-align: center;
+}
+
+#error {
+    color: #ff0000;
+}
